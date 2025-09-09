@@ -1,8 +1,8 @@
 # 👋 Hi, I'm David Matos
 
-🎓 Student of **Systems Analysis and Development** at **Faculdade Impacta**  
-📚 Graduated in **Information Technology** from **ENNET – School of Informatics**  
-🌐 Fluent in **English** and **Spanish**, with continuous practice on platforms like **Duolingo**
+🎓 Currently pursuing a degree in **Systems Analysis and Development** at **Faculdade Impacta**, where I am deepening my knowledge in software engineering, database management, and system architecture.  
+📚 Graduated in **Information Technology** from **ENNET – School of Informatics**, with a solid foundation in programming, network administration, and IT project management.  
+🌐 Fluent in **English** and **Spanish**, continuously improving through formal studies and practical use, including language platforms like **Duolingo**, and daily application in professional and personal contexts.
 
 ---
 
@@ -16,17 +16,28 @@ Currently, I'm **open to opportunities in any area of technology**, always willi
 
 ## 🚀 Skills & Knowledge
 
-![AI Badge](https://img.shields.io/badge/Artificial_Intelligence-lightgrey?style=for-the-badge&logo=opencv)  
-![FlutterFlow Badge](https://img.shields.io/badge/FlutterFlow-blue?style=for-the-badge&logo=flutter)  
-![Low-Code Badge](https://img.shields.io/badge/Low_Code-No_Code-blueviolet?style=for-the-badge)  
-![Wix Badge](https://img.shields.io/badge/Wix-black?style=for-the-badge&logo=wix)  
-![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)  
-![Python Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)  
+### Front-end  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
+
+### Back-end  
+![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)  
+![Python Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)  
+
+### Low-Code / No-Code  
+![FlutterFlow Badge](https://img.shields.io/badge/FlutterFlow-blue?style=for-the-badge&logo=flutter)  
+![Wix Badge](https://img.shields.io/badge/Wix-black?style=for-the-badge&logo=wix)  
+![Low-Code Badge](https://img.shields.io/badge/Low_Code-No_Code-blueviolet?style=for-the-badge)  
+
+### Tools & Others  
 ![Git Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
-![Office Badge](https://img.shields.io/badge/Microsoft_Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+
+### Concepts  
+![AI Badge](https://img.shields.io/badge/Artificial_Intelligence-lightgrey?style=for-the-badge&logo=opencv)  
+![Programming Logic Badge](https://img.shields.io/badge/Programming_Logic-lightblue?style=for-the-badge)  
+![Networking Badge](https://img.shields.io/badge/Networking-Fundamentals-blueviolet?style=for-the-badge)  
 
 ---
 
