@@ -2,17 +2,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=davidmatos&style=flat-square&color=blue)
 
-🎓 Currently pursuing a degree in **Systems Analysis and Development** at **Faculdade Impacta**, where I am deepening my knowledge in software engineering, database management, and system architecture.  
-📚 Graduated in **Information Technology** from **ENNET – School of Informatics**, with a solid foundation in programming, network administration, and IT project management.  
-🌐 Fluent in **English** and **Spanish**, continuously improving through formal studies and practical use, including language platforms like **Duolingo**, and daily application in professional and personal contexts.
+Análise e Desenvolvimento de Sistemas | Engenharia de Software e Desenvolvimento Full Stack.
 
 ---
 
 ## 💻 About Me
 
-I'm passionate about technology and always eager to learn, grow, and apply my knowledge in practice.  
-I have experience with visual development tools, programming logic, and IT fundamentals.  
-Currently, I'm **open to opportunities in any area of technology**, always willing to face new challenges and learn from them.
+🎓 Currently pursuing a degree in Systems Analysis and Development at Faculdade Impacta, where I am deepening my knowledge in software engineering, database management, and system architecture.
+📚 Graduated in Information Technology from ENNET – School of Informatics, with a solid foundation in programming, network administration, and IT project management.
+🌐 Fluent in English and Spanish, continuously improving through formal studies and practical use, including language platforms like Duolingo, and daily application in professional and personal contexts.
 
 ---
 
