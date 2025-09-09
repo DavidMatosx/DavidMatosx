@@ -1,5 +1,7 @@
 # 👋 Hi, I'm David Matos
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=davidmatos.davidmatos)
+
 🎓 Currently pursuing a degree in **Systems Analysis and Development** at **Faculdade Impacta**, where I am deepening my knowledge in software engineering, database management, and system architecture.  
 📚 Graduated in **Information Technology** from **ENNET – School of Informatics**, with a solid foundation in programming, network administration, and IT project management.  
 🌐 Fluent in **English** and **Spanish**, continuously improving through formal studies and practical use, including language platforms like **Duolingo**, and daily application in professional and personal contexts.
@@ -19,6 +21,7 @@ Currently, I'm **open to opportunities in any area of technology**, always willi
 ### Front-end  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### Back-end  
 ![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)  
@@ -49,7 +52,7 @@ Currently, I'm **open to opportunities in any area of technology**, always willi
 
 ---
 
-## 📫 Contact
+## 📫 Contact with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-matos-b01834338/)  
 ![Email Badge](https://img.shields.io/badge/Email-davids.matos%40outlook.com-cyan?style=for-the-badge&logo=gmail&logoColor=white)  
