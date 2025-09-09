@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Matos
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=davidmatos.davidmatos)
+![Profile Views](https://komarev.com/ghpvc/?username=davidmatos&style=flat-square&color=blue)
 
 🎓 Currently pursuing a degree in **Systems Analysis and Development** at **Faculdade Impacta**, where I am deepening my knowledge in software engineering, database management, and system architecture.  
 📚 Graduated in **Information Technology** from **ENNET – School of Informatics**, with a solid foundation in programming, network administration, and IT project management.  
