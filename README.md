@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=davidmatos&style=flat-square&color=blue)
 
-Análise e Desenvolvimento de Sistemas | Engenharia de Software e Desenvolvimento Full Stack.
+Analysis and Development of Systems | Software Engineering and Full Stack Development.
 
 ---
 
