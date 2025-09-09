@@ -9,7 +9,9 @@ Analysis and Development of Systems | Software Engineering and Full Stack Develo
 ## 💻 About Me
 
 🎓 Currently pursuing a degree in Systems Analysis and Development at Faculdade Impacta, where I am deepening my knowledge in software engineering, database management, and system architecture.
+
 📚 Graduated in Information Technology from ENNET – School of Informatics, with a solid foundation in programming, network administration, and IT project management.
+
 🌐 Fluent in English and Spanish, continuously improving through formal studies and practical use, including language platforms like Duolingo, and daily application in professional and personal contexts.
 
 ---
